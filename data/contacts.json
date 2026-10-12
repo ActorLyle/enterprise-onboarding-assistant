@@ -1,0 +1,12 @@
+[
+  {"id":"C001","name":"周敏","role":"HR 对接人","department":"人力资源部","email":"hr-service@example.test","phone":"企业分机 8101","scope":"员工本人及其 HR 服务事项"},
+  {"id":"C002","name":"王宁","role":"HR 对接人","department":"人力资源部","email":"people@example.test","phone":"企业分机 8102","scope":"员工本人及其 HR 服务事项"},
+  {"id":"C003","name":"IT服务台","role":"IT 服务台","department":"信息技术部","email":"it-help@example.test","phone":"企业分机 8200","scope":"设备、账号与门禁系统支持"},
+  {"id":"C004","name":"行政服务台","role":"行政人员","department":"行政部","email":"office@example.test","phone":"企业分机 8300","scope":"工位、门禁与办公环境支持"},
+  {"id":"C005","name":"林老师","role":"培训负责人","department":"人力资源部","email":"learning@example.test","phone":"企业分机 8401","scope":"培训计划与学习平台支持"},
+  {"id":"C006","name":"财务服务台","role":"财务报销负责人","department":"财务部","email":"finance-help@example.test","phone":"企业分机 8500","scope":"报销流程支持"},
+  {"id":"C007","name":"信息安全服务台","role":"信息安全负责人","department":"信息技术部","email":"security@example.test","phone":"企业分机 8600","scope":"信息安全培训与规范支持"},
+  {"id":"C008","name":"陈屿","role":"部门负责人","department":"产品部","email":"chen.yu@example.test","phone":"企业通讯录","scope":"产品部员工业务联系"},
+  {"id":"C009","name":"顾言","role":"部门负责人","department":"工程部","email":"gu.yan@example.test","phone":"企业通讯录","scope":"工程部员工业务联系"},
+  {"id":"C010","name":"沈禾","role":"部门负责人","department":"设计部","email":"shen.he@example.test","phone":"企业通讯录","scope":"设计部员工业务联系"}
+]

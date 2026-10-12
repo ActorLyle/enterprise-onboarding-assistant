@@ -1,0 +1,8 @@
+{
+  "name": "onboarding-plan-skill-platform",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": { "start": "node server/index.js", "dev": "node --watch server/index.js", "start:background": "node scripts/server-manager.mjs start", "server:status": "node scripts/server-manager.mjs status", "server:restart": "node scripts/server-manager.mjs restart", "server:stop": "node scripts/server-manager.mjs stop", "autostart:install": "powershell -ExecutionPolicy Bypass -File scripts/install-autostart.ps1" },
+  "engines": { "node": ">=18" }
+}

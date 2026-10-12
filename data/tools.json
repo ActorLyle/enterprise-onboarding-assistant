@@ -1,0 +1,9 @@
+[
+  {"id":"employee_lookup","name":"查询员工信息","description":"按当前模拟员工编号查询员工档案与入职状态。","source":"employees.json","enabled":true},
+  {"id":"task_lookup","name":"查询入职任务","description":"按员工与入职阶段检索本地入职任务。","source":"onboarding_tasks.json","enabled":true},
+  {"id":"contact_lookup","name":"查询公司联系人","description":"返回业务需要的联系人企业身份信息。","source":"contacts.json","enabled":true},
+  {"id":"policy_search","name":"查询制度知识库","description":"按关键词检索本地制度并优先返回当前有效版本。","source":"policies.json","enabled":true},
+  {"id":"training_lookup","name":"查询培训计划","description":"按部门和岗位检索培训安排。","source":"trainings.json","enabled":true},
+  {"id":"task_status","name":"入职任务状态计算","description":"用代码计算任务完成率、逾期、依赖和优先级。","source":"onboarding_tasks.json","enabled":true},
+  {"id":"coze_workflow","name":"Coze 入职工作流","description":"调用 Coze workflow 7661245829961302052，输入用户、会话名称和问题，返回 answer / status / risk_level。","source":"https://api.coze.cn/v1/workflow/run","workflow_id":"7661245829961302052","enabled":true,"input_schema":{"user_id":"String","CONVERSATION_NAME":"String","USER_INPUT":"String"},"output_schema":{"answer":"String","status":"String","risk_level":"String"}}
+]

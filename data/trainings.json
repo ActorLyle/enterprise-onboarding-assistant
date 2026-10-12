@@ -1,0 +1,9 @@
+[
+  {"id":"TR001","name":"新员工通用培训","category":"通用培训","department":"全员","schedule":"入职第一周，每周三线上场次","owner":"林老师","format":"线上课程","required":true,"status":"待参加"},
+  {"id":"TR002","name":"信息安全基础培训","category":"信息安全培训","department":"全员","schedule":"入职第一周完成自学","owner":"信息安全服务台","format":"在线课程与测验","required":true,"status":"待参加"},
+  {"id":"TR003","name":"企业文化与产品概览","category":"企业文化培训","department":"全员","schedule":"每月第二周周四","owner":"林老师","format":"现场分享","required":true,"status":"待参加"},
+  {"id":"TR004","name":"产品岗位入门","category":"岗位培训","department":"产品部","position":"AI产品经理","schedule":"与直属领导确认首月安排","owner":"产品部培训负责人","format":"导师带教","required":true,"status":"待安排"},
+  {"id":"TR005","name":"工程研发环境入门","category":"岗位培训","department":"工程部","schedule":"入职第一周","owner":"工程部培训负责人","format":"导师带教","required":true,"status":"待安排"},
+  {"id":"TR006","name":"设计协作规范","category":"岗位培训","department":"设计部","schedule":"入职首月","owner":"设计部培训负责人","format":"团队工作坊","required":true,"status":"待安排"},
+  {"id":"TR007","name":"数据隐私与个人信息保护","category":"信息安全培训","department":"全员","schedule":"入职第一个月","owner":"信息安全服务台","format":"在线课程","required":true,"status":"待参加"}
+]
